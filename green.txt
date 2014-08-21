@@ -1,1 +1,2 @@
 green is a nice color.
+Grass is green.
