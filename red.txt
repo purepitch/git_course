@@ -1,1 +1,2 @@
 red is a nice color.
+Roses are red.
